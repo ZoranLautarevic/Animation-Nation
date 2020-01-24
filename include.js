@@ -1460,6 +1460,13 @@ let cards = [
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
 }
+	{
+        artName: "Aniatron2",
+        pageLink: "./Art/animatron2/index.html",
+        imageLink: "./Art/animatron2/trance.gif",
+        author: "Zoran",
+        githubLink: "https://github.com/ZoranLautarevic"
+    }
 ];
 
 // +--------------------------------------------------------------------------------+
